@@ -26,7 +26,7 @@
 We'd love your help in improving the website with your own content & fixes. Here are some ways you can help:
 
 - Before doing anything, read our [Code of Conduct](https://github.com/usc-cisco/scientia/blob/main/.github/CODE_OF_CONDUCT.md).
-- Read our [Contributing guidelines](https://github.com/usc-cisco/scientia/blob/main/.github/CONTRIBUTING.md) for making a pull request to edit the repostiory yourself.
+- Read our [Contributing guidelines](https://github.com/usc-cisco/scientia/blob/main/.github/CONTRIBUTING.md) for making a pull request to edit the repository yourself.
 - [Raise issues](https://github.com/usc-cisco/scientia/issues/new/choose) to; correct wrong or misleading content, request more notes, or to fix broken links or outdated resources.
 - [Fork the repository](https://github.com/usc-cisco/scientia/fork) and work on changes on your local machine.
 
