@@ -12,7 +12,7 @@ title: 'Resources'
 
 ## Practice Exams
 
-- [Bryan Sanchez' CIS1201 Framework](https://github.com/0-BSCode/cis-2101-framework) - a GitHub repository containing multiple practice problems and boilerplate to implement data structures.
+- [Bryan Sanchez's CIS2101 Framework](https://github.com/0-BSCode/cis-2101-framework) - a GitHub repository containing multiple practice problems and boilerplate to implement data structures.
 - [Maam Peña's Practice Activity PDFs and their Answers](https://github.com/Luzefiru/academic-code/tree/main/CIS2101) - a GitHub repository containing the answers for everything until Graphs.
 - [Caleb's DSA Premid Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf7JQI51Q9roGR0hG73-6tmrMeEGGQWXNP5GRT0SOpWhwaCfA/viewform) - a Google Form to review DSA during the pre-midterm exam season.
 
