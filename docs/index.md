@@ -9,17 +9,22 @@ hero:
   image: /logo.webp
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: View Available Courses
+      link: /courses
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub Repository
+      link: https://github.com/usc-cisco/scientia
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 'Authentic Content'
+    icon: ✨
+    details: Resources and notes come directly from students, ensuring real, relevant, and trustworthy material.
+
+  - title: 'Collaborative & Open'
+    icon: 🙌
+    details: Open source where anyone can suggest or make changes.
+
+  - title: 'Unified Repository'
+    icon: 🔗
+    details: A centralized hub tailored for DCISM students, making it easier to access and share information.
 ---

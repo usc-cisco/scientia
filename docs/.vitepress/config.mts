@@ -40,9 +40,10 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the GNU GPLv3 License.',
+      message:
+        'For content removal requests, please contact us at dcism.sc@gmail.com',
       copyright:
-        'Copyright © 2024 USC Computer and Information Sciences Council',
+        'Copyright © 2024, USC Computer and Information Sciences Council',
     },
   },
 
