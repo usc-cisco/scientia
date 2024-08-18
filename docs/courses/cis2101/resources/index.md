@@ -8,7 +8,7 @@ title: 'Resources'
 
 - [Samuel Bonghanoy's DSA-practice GitHub Repository](https://github.com/Samuel-Bonghanoy/DSA-practice/tree/master/DSA) - contains implementations of the various data structures & algorithms.
 - [Mary Modesto's DSA Notes](https://drive.google.com/drive/folders/1oftaWQGD4w5fsqUk4RhQDhCLXWLglZc7?usp=sharing) - a Google Drive containing implementations for Cursor-based, Hashing, and Sets
-- [Fabiola Villanueva's Miro Board for DSA] - an in-depth digital whiteboard of all the diagrams, notes, and sample code encountered in DSA.
+- [Fabiola Villanueva's Miro Board for DSA](https://miro.com/app/board/uXjVKGSc5oY=/?share_link_id=442891376991) - an in-depth digital whiteboard of all the diagrams, notes, and sample code encountered in DSA.
 
 ## Practice Exams
 
