@@ -12,8 +12,8 @@ title: 'Resources'
 ## Practice Exams
 
 - [Codechum Exercises from Maam Bandalan](https://docs.google.com/document/d/1WmjX04iz1gE74j1ZySArNekWPNWlFb3c/edit) - a Google Docs collection of all the CodeChum activities by a certain student.
-- [Wayne Dayata's CIS1101 Midterm Reviewer](./files/cis1101-midterm-reviewer.pdf)
-- [Wayne Dayata's CIS1101 Finals Test Reviewer, part 1](./files/cis1101-finals-test-1.pdf) and then [Wayne Dayata's CIS1101 Finals Test Reviewer, part 2](./files/cis1101-finals-test-2.pdf)
+- [Wayne Dayata's CIS1101 Midterm Reviewer](./files/wayne-cis1101-midterm-reviewer.pdf)
+- [Wayne Dayata's CIS1101 Finals Test Reviewer, part 1](./files/wayne-cis1101-finals-test-1.pdf) and then [Wayne Dayata's CIS1101 Finals Test Reviewer, part 2](./files/wayne-cis1101-finals-test-2.pdf)
 - [CIS 1101 Programming - Pointers](http://www.quiz-maker.com/QBH2SGOBI) - a mock exam made in Quiz Maker.
 
 ## Media
