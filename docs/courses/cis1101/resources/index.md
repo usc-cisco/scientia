@@ -19,3 +19,7 @@ title: 'Resources'
 ## Media
 
 - [Sir Gran's 1101 Finals Review Tutorial](https://drive.google.com/drive/u/2/folders/1Zn3Fhmg_BfAUZh6JHBC8fNe9hgFGFyvo)
+
+## Tools
+
+- [Python Tutor: C](https://pythontutor.com/c.html) - online C compiler and stack & memory visualizer.
