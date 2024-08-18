@@ -6,6 +6,7 @@ hero:
   name: 'Scientia'
   text: 'Notes Repository'
   tagline: by DCISM students, for DCISM students
+  image: /logo.webp
   actions:
     - theme: brand
       text: Markdown Examples

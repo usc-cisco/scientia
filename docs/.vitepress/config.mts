@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import { sidebar } from './sidebar';
 
 const BASE_URL = '/scientia';
 
@@ -15,18 +16,10 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Courses', link: '/courses' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-        ],
-      },
-    ],
+    sidebar,
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/usc-cisco/scientia' },
@@ -44,6 +37,18 @@ export default defineConfig({
         dateStyle: 'full',
         timeStyle: 'medium',
       },
+    },
+
+    footer: {
+      message: 'Released under the GNU GPLv3 License.',
+      copyright:
+        'Copyright © 2024 USC Computer and Information Sciences Council',
+    },
+  },
+
+  markdown: {
+    image: {
+      lazyLoading: true,
     },
   },
 });
