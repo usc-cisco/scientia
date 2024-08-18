@@ -38,7 +38,12 @@ export const sidebar = {
     {
       text: 'CIS 2101: DSA',
       collapsed: true,
-      items: [],
+      items: [
+        {
+          text: 'Resources',
+          link: '/courses/cis2101/resources/',
+        },
+      ],
     },
   ],
 };
