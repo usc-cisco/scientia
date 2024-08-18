@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Scientia"
-  text: "USC DCISM Notes Repository"
-  tagline: My great project tagline
+  name: 'Scientia'
+  text: 'Notes Repository'
+  tagline: by DCISM students, for DCISM students
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
