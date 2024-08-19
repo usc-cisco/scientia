@@ -1,5 +1,5 @@
 ---
-title: 'Resources'
+title: "Resources"
 ---
 
 # {{ $frontmatter.title }}
@@ -10,6 +10,7 @@ title: 'Resources'
 
 ## Practice Exams
 
+- [Pia Tantay's CIS1201 Practice Activities](https://near-mandrill-5da.notion.site/Programming-2-b79b46fc68bc4225b5d9915a38f0b151) - a Notion website full of practice activities and answers from different students.
 - [Wayne Dayata's CIS1201 Finals Mock Exam, part 1](./files/wayne-cis1201-final-mock-exam-test1.pdf) and then [Wayne's CIS1102 Finals Mock Exam, part 2](./files/wayne-cis1201-final-mock-exam-test2.pdf)
   - [Wayne's CIS1201 Finals Mock Exam Answer Key](./files/wayne-cis1201-final-mock-exam-ans.pdf)
   - [Wayne's CIS1201 Finals Mock Exam (Retake Version)](wayne-cis1201-final-mock-exam-retake.pdf)
