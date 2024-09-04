@@ -31,7 +31,7 @@ export const sidebar = {
       items: [
         {
           text: 'Resources',
-          link: '/courses/cis1102/resources/',
+          link: '/courses/cis1201/resources/',
         },
       ],
     },
