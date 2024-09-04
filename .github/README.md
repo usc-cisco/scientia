@@ -21,6 +21,24 @@
   <a href="https://github.com/usc-cisco/scientia/blob/master/LICENSE"><img src="https://img.shields.io/github/license/usc-cisco/scientia?color=2b9348" alt="License Badge"/></a>
 </h5>
 
+## Deplying to DCISM Servers
+
+After running the commands below, it should serve the files in the root directory of the subdomain `scientia.dcism.org`:
+
+```bash
+ssh s$ID_NUMBER@dcism.org -p 22077
+cd scientia.dcism.org
+git clone git@github.com:usc-cisco/scientia.git .
+chmod 700 dcism.sh
+./dcism.sh
+```
+
+To update the server manually, run the script to automatically delete old files & pull changes before building the static files again:
+
+```bash
+./dcism.sh
+```
+
 ## Contributing
 
 We'd love your help in improving the website with your own content & fixes. Here are some ways you can help:
