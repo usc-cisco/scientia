@@ -36,7 +36,16 @@ chmod 700 dcism.sh
 To update the server manually, run the script to automatically delete old files & pull changes before building the static files again:
 
 ```bash
+ssh s$ID_NUMBER@dcism.org -p 22077
+cd scientia.dcism.org
 ./dcism.sh
+```
+
+To setup a cron job to update it automatically, use the following line of code:
+
+```bash
+# updates every 00:00 (Server Time)
+* 0 * * * cd /data/users/s$ID_NUMBER/scientia.dcism.org && /bin/bash /data/users/s$ID_NUMBER/scientia.dcism.org/dcism.sh
 ```
 
 ## Contributing
