@@ -5,6 +5,7 @@ echo "Setting up dcism.org files..."
 # remove old copied files except for build files
 find . -maxdepth 1 ! -name 'docs' ! -name 'LICENSE' ! -name 'node_modules' ! -name 'package.json' ! -name 'package-lock.json' ! -name 'dcism.sh' ! -name '.' ! -name '.*' -exec rm -rf {} +
 # update files
+git remote set-url origin https://github.com/usc-cisco/scientia.git
 git reset --hard && git pull origin main
 
 # remove subpath BASE_URL since we need to host in / inside dcism.org
