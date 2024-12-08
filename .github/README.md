@@ -26,17 +26,17 @@
 After running the commands below, it should serve the files in the root directory of the subdomain `scientia.dcism.org`:
 
 ```bash
-ssh s$ID_NUMBER@dcism.org -p 22077
+ssh s${ID_NUMBER}@dcism.org -p 22077
 cd scientia.dcism.org
-git clone git@github.com:usc-cisco/scientia.git .
-chmod 700 dcism.sh
+git clone origin https://github.com/usc-cisco/scientia.git .
+chmod u+x dcism.sh
 ./dcism.sh
 ```
 
 To update the server manually, run the script to automatically delete old files & pull changes before building the static files again:
 
 ```bash
-ssh s$ID_NUMBER@dcism.org -p 22077
+ssh s${ID_NUMBER}@dcism.org -p 22077
 cd scientia.dcism.org
 ./dcism.sh
 ```
@@ -45,7 +45,7 @@ To setup a cron job to update it automatically, use the following line of code:
 
 ```bash
 # updates every 00:00 (Server Time)
-* 0 * * * cd /data/users/s$ID_NUMBER/scientia.dcism.org && /bin/bash /data/users/s$ID_NUMBER/scientia.dcism.org/dcism.sh
+* 0 * * * cd /data/users/s${ID_NUMBER}/scientia.dcism.org && /bin/bash /data/users/s${ID_NUMBER}/scientia.dcism.org/dcism.sh
 ```
 
 ## Contributing
