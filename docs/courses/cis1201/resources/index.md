@@ -7,6 +7,7 @@ title: 'Resources'
 ## Knowledge Repositories
 
 - [C Programming: A Modern Approach, 2nd Edition](https://luzefiru.notion.site/C-Programming-A-Modern-Approach-2nd-Edition-8735592a9f1049dd9d2c6ede9ef52de2?pvs=74) - a Notion site containing all the chapters from K. N King's book.
+- [Zeus Elderfield's Prog 2-CodeDump Githup Repository](https://github.com/elderfieldzeus/prog2) - contains different implementations of basic data structures and algorithms introduced in Prog 2.
 
 ## Practice Exams
 
