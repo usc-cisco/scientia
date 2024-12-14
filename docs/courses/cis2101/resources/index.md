@@ -11,7 +11,7 @@ title: 'Resources'
 - [Mary Modesto's DSA Notes](https://drive.google.com/drive/folders/1oftaWQGD4w5fsqUk4RhQDhCLXWLglZc7?usp=sharing) - a Google Drive containing implementations for Cursor-based, Hashing, and Sets
 - [Fabiola Villanueva's Miro Board for DSA](https://miro.com/app/board/uXjVKGSc5oY=/?share_link_id=442891376991) - an in-depth digital whiteboard of all the diagrams, notes, and sample code encountered in DSA.
 - [Reynat Daganta's DSA Notes (Obsidian)](https://github.com/Despee2k/NOTES) - a collection of data structures and algorithms concepts, diagrams, and code examples designed for studying DSA using Obsidian.
-- [Sir Teddy's BSIT-2 Notes for All Subjects(https://1drv.ms/u/s!ApDAhi4jOIyXlRgGWORbwH7aQtIa) - very organized; has a section on CIS2101: DSA
+- [Sir Teddy's BSIT-2 Notes for All Subjects](https://1drv.ms/u/s!ApDAhi4jOIyXlRgGWORbwH7aQtIa) - very organized; has a section on CIS2101: DSA
 
 ## Practice Exams
 
